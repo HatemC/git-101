@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+	justify-content: center;
+}
+
+#photo1 {
+	height: 600px;
+	width: 200 px;
+}
